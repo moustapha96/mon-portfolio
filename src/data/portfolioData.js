@@ -6,7 +6,7 @@ export const portfolioData = [
     languagesIcons: ["fab fa-js", "fab fa-react", "fab fa-css3-alt"],
     source: "mon-portfolio-sand.vercel.app",
     info: "mon portfolio conçu avec le framework ReacJs",
-    picture: "./media/project1.JPG",
+    picture: "./media/projet-react-cv.png",
   },
   {
     id: 2,
@@ -45,7 +45,7 @@ export const portfolioData = [
     ],
     source: "http://www.github.com",
     info: "DEVELOPPEMENT D’UN SYSTEME D’INFORMATION MARCHE DU LAIT (SIM LAIT).L’objectif de cette mission est d’accompagner le PDEPS SENEGAL dans la conception et l’opérationnalisation de la plateforme SIM Lait web to mobile.  ",
-    picture: "./media/project4.JPG",
+    picture: "./media/simlait.png",
   },
   {
     id: 5,
@@ -54,7 +54,7 @@ export const portfolioData = [
     languagesIcons: ["fab fa-typescript", "fab fa-firebase", "fab fa-ionic"],
     source: "http://www.github.com",
     info: "développement d’une application mobile pour la gestion de la bibliothèque de l’université de Thiès",
-    picture: "./media/project5.JPG",
+    picture: "./media/bcut.png",
   },
   {
     id: 6,
@@ -63,7 +63,7 @@ export const portfolioData = [
     languagesIcons: ["fab fa-js", "fab fa-java"],
     source: "http://www.github.com",
     info: " développement d’une plateforme web pour la gestion du suivi médical des patients avec  Angular et Spring Boot avec une base de données MySql",
-    picture: "./media/project6.JPG",
+    picture: "./media/suivi-medical.png",
   },
   {
     id: 7,

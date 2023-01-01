@@ -14,7 +14,7 @@
       position: absolute;
       height: 100%;
       width: inherit;
-      background: url('../../media/profil-ordi.jpg') no-repeat center/cover;
+      background: url('../../media/mon-image.jpg') no-repeat center/cover;
       z-index: -1;
       filter: brightness(30%);
     }
@@ -67,7 +67,7 @@
 @media screen and (max-width:580px) {
   .homeContent {
     &:after {
-      background: url('../../media/profil-ordi.jpg') no-repeat 60% 50%/cover !important;
+      background: url('../../media/mon-image.jpg') no-repeat 60% 50%/cover !important;
     }
 
     h1 {
