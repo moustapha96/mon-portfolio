@@ -45,7 +45,7 @@ const Contact = () => {
         <div className="socialNetwork">
           <ul>
             <a
-              href="https://www.google.com"
+              href="https://www.linkedin.com/in/al-hussein-khouma-019337217"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -60,14 +60,14 @@ const Contact = () => {
               <h4>Github </h4>
               <i className="fab fa-github"></i>{" "}
             </a>{" "}
-            <a
+            {/* <a
               href="https://www.google.com"
               target="_blank"
               rel="noopener noreferrer"
             >
               <h4>Twitter </h4>
               <i className="fab fa-twitter"></i>{" "}
-            </a>{" "}
+            </a>{" "} */}
           </ul>
         </div>
       </div>

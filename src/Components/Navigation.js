@@ -45,7 +45,7 @@ const Navigation = () => {
           <li>
             {" "}
             <a
-              href="https://www.google.com"
+              href="https://www.linkedin.com/in/al-hussein-khouma-019337217"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -64,7 +64,7 @@ const Navigation = () => {
               <i className="fab fa-github"></i>{" "}
             </a>{" "}
           </li>
-          <li>
+          {/* <li>
             {" "}
             <a
               href="https://www.google.com"
@@ -74,7 +74,7 @@ const Navigation = () => {
               {" "}
               <i className="fab fa-twitter"></i>{" "}
             </a>{" "}
-          </li>
+          </li> */}
         </ul>
 
         <div className="signature">
