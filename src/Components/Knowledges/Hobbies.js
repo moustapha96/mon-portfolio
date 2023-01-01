@@ -15,6 +15,12 @@ const Hobbies = () => {
           {" "}
           <i className="fas fa-book-reader"></i> <span> Lecture </span>{" "}
         </li>
+
+        <li className="hobby">
+          {" "}
+          <i class="fas fa-gamepad"></i>
+          <span> Jeu Video </span>{" "}
+        </li>
       </ul>
     </div>
   );
