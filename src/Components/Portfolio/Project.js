@@ -36,7 +36,7 @@ export default class Project extends Component {
               <div className="head">
                 {" "}
                 <h2>{name} </h2>{" "}
-                {/* <div className="sourceCode">
+                <div className="sourceCode">
                   <a
                     href={source}
                     target="_blank"
@@ -45,7 +45,15 @@ export default class Project extends Component {
                   >
                     Code Source
                   </a>
-                </div> */}
+                  <a
+                    href="./manuel/Manuel_SIMLAIT.pdf"
+                    target="_blank"
+                    rel="noreferrer"
+                    className="button"
+                  >
+                    Manuel
+                  </a>
+                </div>
               </div>
               <p className="text"> {info} </p>
               <div className="button return" onClick={this.handleExit}>
