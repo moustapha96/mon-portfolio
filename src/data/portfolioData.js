@@ -96,7 +96,17 @@ export const portfolioData = [
     ],
     source: "http://www.github.com",
     manuel: "",
-    info: "Cette application permet la création de formulaires dynamiques pour la collecte d'informations, la récupération et l'affichage de données ainsi que la génération de statistiques personnalisées en fonction de chaque formulaire.",
+    info: "Cette application facilite la création de formulaires interactifs pour recueillir des informations, extraire et présenter des données, et créer des statistiques personnalisées basées sur chaque formulaire.",
     picture: "./media/project6.JPG",
+  },
+  {
+    id: 8,
+    name: "Demande de Lotissement",
+    languages: ["php", "symfony", "bootstrap", "mysql"],
+    languagesIcons: ["fab fa-php", "fab fa-bootstrap", "fab fa-symfony"],
+    source: "http://www.github.com",
+    manuel: "https://glotissement.mascosolutions.com",
+    info: "L'application Symfony pour la mairie de Tivaouane simplifie la gestion des demandes de lotissement. Elle permet aux citoyens de soumettre des demandes en ligne, aux employés municipaux de les traiter efficacement, et elle offre des notifications automatiques pour informer les demandeurs de l'état de leur demande. Cette application favorise une gestion plus transparente et rapide du lotissement dans la région de Tivaouane.",
+    picture: "./media/lotissement.png",
   },
 ];

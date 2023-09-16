@@ -45,14 +45,16 @@ export default class Project extends Component {
                   >
                     Code Source
                   </a>
-                  <a
-                    href="./manuel/Manuel_SIMLAIT.pdf"
-                    target="_blank"
-                    rel="noreferrer"
-                    className="button"
-                  >
-                    Manuel
-                  </a>
+                  {name === "SIM LAIT" && (
+                    <a
+                      href="./manuel/Manuel_SIMLAIT.pdf"
+                      target="_blank"
+                      rel="noreferrer"
+                      className="button"
+                    >
+                      Manuel
+                    </a>
+                  )}
                 </div>
               </div>
               <p className="text"> {info} </p>
