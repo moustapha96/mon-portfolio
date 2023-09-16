@@ -55,7 +55,7 @@ const Home = () => {
         <div className="content">
           <h1> AL HUSSEIN KHOUMA </h1>
           <h2>Dev FUll stack</h2>
-          <p>
+          <p className="text-content">
             Passionné par l'innovation web, je suis autonome, curieux et motivé.
             Mon expérience de plus d'un an couvre chaque aspect du développement
             d'applications, de la conception à la maintenance, en passant par le
